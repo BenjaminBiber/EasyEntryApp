@@ -13,6 +13,8 @@ RUN echo "Inhalt von /src vor COPY:" && ls -la /src
 COPY ["EasyEntryApp/EasyEntryApp.csproj", "EasyEntryApp/"]
 COPY ["EasyEntryLib/EasyEntryLib.csproj", "EasyEntryLib/"]
 RUN dotnet restore "EasyEntryApp/EasyEntryApp.csproj"
+RUN dotnet workload install wasm-tools
+
 COPY . .
 WORKDIR "/src/EasyEntryApp"
 RUN dotnet build "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /app/build
