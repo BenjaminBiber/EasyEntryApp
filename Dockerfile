@@ -8,22 +8,32 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
+# Debug: Inhalt anzeigen
 RUN echo "Inhalt von /src vor COPY:" && ls -la /src
 
+# Projekte einzeln kopieren
 COPY ["EasyEntryApp/EasyEntryApp.csproj", "EasyEntryApp/"]
 COPY ["EasyEntryLib/EasyEntryLib.csproj", "EasyEntryLib/"]
-RUN dotnet restore "EasyEntryApp/EasyEntryApp.csproj"
+
+# Restore & Workload
 RUN dotnet workload install wasm-tools
+RUN dotnet restore "EasyEntryApp/EasyEntryApp.csproj"
 
+# Restliche Dateien kopieren
 COPY . .
-WORKDIR "/src/EasyEntryApp"
-RUN dotnet build "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
+# Build
+WORKDIR "/src/EasyEntryApp"
+RUN dotnet build "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /src/build
+
+# Publish
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+WORKDIR /src/EasyEntryApp
+RUN dotnet publish "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /src/publish /p:UseAppHost=false
 
+# Final Image
 FROM base AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=publish /src/publish .
 ENTRYPOINT ["dotnet", "EasyEntryApp.dll"]
