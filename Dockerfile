@@ -1,46 +1,47 @@
-﻿FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-# USER $APP_UID
-WORKDIR /app
-EXPOSE 8080
-EXPOSE 8081
-
+# ========================
+# STAGE 1: Build & Publish
+# ========================
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
-# Installiere Python (z. B. für AOT-kompilierung in WASM)
-RUN apt-get update && apt-get install -y python3 python3-pip
+# Install Python (optional, für AOT/wasm-tools)
+RUN apt-get update && apt-get install -y python3 python3-pip && \
+    ln -s /usr/bin/python3 /usr/bin/python
 
-# Optional: Verlinke python3 zu python, falls .NET das erwartet
-RUN ln -s /usr/bin/python3 /usr/bin/python
+# Workload installieren
+RUN dotnet workload install wasm-tools
 
-
-# Debug: Inhalt anzeigen
-RUN echo "Inhalt von /src vor COPY:" && ls -la /src
-
-# Projekte einzeln kopieren
+# Projekte kopieren
 COPY ["EasyEntryApp/EasyEntryApp.csproj", "EasyEntryApp/"]
 COPY ["EasyEntryLib/EasyEntryLib.csproj", "EasyEntryLib/"]
 
-# Restore & Workload
-RUN dotnet workload install wasm-tools
+# Restore
 RUN dotnet restore "EasyEntryApp/EasyEntryApp.csproj"
 
 # Restliche Dateien kopieren
 COPY . .
 
-# Build
-WORKDIR "/src/EasyEntryApp"
-RUN dotnet build "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /src/build
+# Publish direkt nach /app für einfaches COPY
+RUN dotnet publish "EasyEntryApp/EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /app /p:UseAppHost=false
 
-# Publish
-FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-WORKDIR /src/EasyEntryApp
-RUN dotnet publish "EasyEntryApp.csproj" -c $BUILD_CONFIGURATION -o /src/publish /p:UseAppHost=false
+# ========================
+# STAGE 2: Runtime
+# ========================
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 
-# Final Image
-FROM base AS final
+# WORKDIR setzen
 WORKDIR /app
-COPY --from=publish /src/publish .
+
+# Dateien aus build-Stufe kopieren
+COPY --from=build /app ./
+
+# Optional: Debug-Ausgabe
+RUN echo "Inhalt von /app im finalen Image:" && ls -la /app
+
+# Portfreigabe (optional)
+EXPOSE 8080
+EXPOSE 8081
+
+# Einstiegspunkt
 ENTRYPOINT ["dotnet", "EasyEntryApp.dll"]
