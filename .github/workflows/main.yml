@@ -33,9 +33,7 @@ jobs:
 
     - name: Build Docker Image
       run: |
-            docker build . \
-            --file Dockerfile \
-            --tag benjaminbiber/easyentryapp:latest
+            docker build -t benjaminbiber/easyentryapp:latest -f EasyEntryApp/Dockerfile .
 
     - name: Push the Docker image to Docker Hub
       run: docker push benjaminbiber/easyentryapp:latest
