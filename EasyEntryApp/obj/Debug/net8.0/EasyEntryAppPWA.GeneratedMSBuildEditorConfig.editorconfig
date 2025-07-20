@@ -1,0 +1,76 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudAllowedAttributeList = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = EasyEntryAppPWA
+build_property.RootNamespace = EasyEntryAppPWA
+build_property.ProjectDir = /home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Dialogs/AddDeviceDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbG9ncy9BZGREZXZpY2VEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Dialogs/AddGroupDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbG9ncy9BZGRHcm91cERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Dialogs/EditGroupDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbG9ncy9FZGl0R3JvdXBEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Dialogs/GenericDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbG9ncy9HZW5lcmljRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Dialogs/SettingsDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbG9ncy9TZXR0aW5nc0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/DoorOpenerComponents/DoorControlGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = RG9vck9wZW5lckNvbXBvbmVudHMvRG9vckNvbnRyb2xHcm91cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/DoorOpenerComponents/DoorControll.razor]
+build_metadata.AdditionalFiles.TargetPath = RG9vck9wZW5lckNvbXBvbmVudHMvRG9vckNvbnRyb2xsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Pages/GroupManagement.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3JvdXBNYW5hZ2VtZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

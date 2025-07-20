@@ -1,0 +1,7 @@
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.csproj.AssemblyReference.cache
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.GeneratedMSBuildEditorConfig.editorconfig
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.AssemblyInfoInputs.cache
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.AssemblyInfo.cs
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.csproj.CoreCompileInputs.cache
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.MvcApplicationPartsAssemblyInfo.cache
+/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryAppPWA/obj/Debug/net8.0/EasyEntryAppPWA.sourcelink.json
