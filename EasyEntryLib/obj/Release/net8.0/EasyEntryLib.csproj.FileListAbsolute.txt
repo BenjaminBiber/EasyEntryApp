@@ -1,0 +1,13 @@
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/bin/Release/net8.0/EasyEntryLib.deps.json
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/bin/Release/net8.0/EasyEntryLib.dll
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/bin/Release/net8.0/EasyEntryLib.pdb
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.csproj.AssemblyReference.cache
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.AssemblyInfoInputs.cache
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.AssemblyInfo.cs
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.csproj.CoreCompileInputs.cache
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.sourcelink.json
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.dll
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/refint/EasyEntryLib.dll
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/EasyEntryLib.pdb
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/Release/net8.0/ref/EasyEntryLib.dll
