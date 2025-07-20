@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YA+bwPJ4qNhHDyiFrWEviYtNZD78mclBVvJ3I/B44L4=",
+  "Hash": "bBS1WvTRj0MQL3aidxPL7bthOdHScNuNbr2o3W3/ABE=",
   "Source": "EasyEntryApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "kawid8q46j",
-      "Integrity": "/GCiI9Aey2AzXu9dHsBH2B6jR7YDpxy4x5ZoRJlWt68=",
+      "Fingerprint": "8hwogpbe3l",
+      "Integrity": "bP7Jyq27TzJfR3Fc+pYxGEld76cC1/FuzzRiIWnjpsI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net8.0/blazor.boot.json"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "5bl9hwt7jv",
-      "Integrity": "IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8=",
+      "Fingerprint": "ao6ur2zudc",
+      "Integrity": "to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net8.0/EasyEntryApp.pdb"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "li23xrmrti",
-      "Integrity": "g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI=",
+      "Fingerprint": "uxpujesejw",
+      "Integrity": "0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/webcil/EasyEntryApp.wasm"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "jkhk3ulphl",
-      "Integrity": "80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM=",
+      "Fingerprint": "euogvfembi",
+      "Integrity": "xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/bin/Debug/net8.0/EasyEntryLib.pdb"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "5082rkybzf",
-      "Integrity": "+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY=",
+      "Fingerprint": "df0ixi0pic",
+      "Integrity": "qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/webcil/EasyEntryLib.wasm"
@@ -5204,7 +5204,7 @@
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
     },
     {
-      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-jkhk3ulphl.gz",
+      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-euogvfembi.gz",
       "SourceId": "EasyEntryApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/",
@@ -5218,8 +5218,8 @@
       "RelatedAsset": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryLib.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hjy795f5t1",
-      "Integrity": "nbcLHm5B/axZso35NBF/xfTVGMlm27W20gU7600BSCI=",
+      "Fingerprint": "ugu18aeaqq",
+      "Integrity": "fiD8ihZitgpMYdq1meseQkRCeutlSHlFIQnatoiJDOo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryLib.pdb"
@@ -6422,7 +6422,7 @@
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/System.Net.WebProxy.wasm"
     },
     {
-      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-5082rkybzf.gz",
+      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-df0ixi0pic.gz",
       "SourceId": "EasyEntryApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/",
@@ -6436,8 +6436,8 @@
       "RelatedAsset": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryLib.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2i1ccjlr8d",
-      "Integrity": "ZqUQZjmtApmKf4ASV5jJoebGjCLP9s47FTzXabyQQ7k=",
+      "Fingerprint": "czm2rorcov",
+      "Integrity": "KBQln13DFjmh64kgKT9mrZQLg1NCV5nQ/SkleSqFhkI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryLib.wasm"
@@ -7640,7 +7640,7 @@
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/System.Formats.Asn1.wasm"
     },
     {
-      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-li23xrmrti.gz",
+      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-uxpujesejw.gz",
       "SourceId": "EasyEntryApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/",
@@ -7654,8 +7654,8 @@
       "RelatedAsset": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8f2y9ggwr3",
-      "Integrity": "xCk5/YMJYel60Zx2dcimdvNhQghe8oiB+a6iLsj8OVg=",
+      "Fingerprint": "k0fqdhwuqo",
+      "Integrity": "fKDTZ+bzz+q8EZVcXUu8Acns9qf0ypV60jV3cCXY/1s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryApp.wasm"
@@ -7976,7 +7976,7 @@
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/System.Net.ServicePoint.wasm"
     },
     {
-      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-kawid8q46j.gz",
+      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-8hwogpbe3l.gz",
       "SourceId": "EasyEntryApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/",
@@ -7990,8 +7990,8 @@
       "RelatedAsset": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ssvpm5z7q8",
-      "Integrity": "xJhnAcLnLWmwgoyiZMUj6NGEawO7XEutdUGW6A2gEd4=",
+      "Fingerprint": "cjj3jlrz1d",
+      "Integrity": "WKN4MBkOIiHWrx9IgLkql7ErQ+q7NncRLbtU3jLImq4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json"
@@ -8417,7 +8417,7 @@
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.wasm"
     },
     {
-      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-5bl9hwt7jv.gz",
+      "Identity": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-ao6ur2zudc.gz",
       "SourceId": "EasyEntryApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/",
@@ -8431,8 +8431,8 @@
       "RelatedAsset": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ibfnja806w",
-      "Integrity": "sndv81N/tI7tsEW9A6imZEjfuIUGsHf25PqteR5szUE=",
+      "Fingerprint": "0q1xwcmaux",
+      "Integrity": "+DbHH6eSWfA7dOeAmrErZsxU5sf6Fp3HDIHGYE6oZw4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/bin/Debug/net8.0/wwwroot/_framework/EasyEntryApp.pdb"
@@ -8935,8 +8935,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "adtdxt0cuu",
-      "Integrity": "EtWCE9efV3bHuREBn+Q+OtiiDo1jvoVrokEgbPf4sFw=",
+      "Fingerprint": "8dzodph4c9",
+      "Integrity": "DAoC8Y03tx9iA9JO7ZK6Lkr/8DZaeFrXpnmaUTEQLVk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net8.0/service-worker/service-worker-assets.js.build"
@@ -8956,8 +8956,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "hy5zgiwuan",
-      "Integrity": "F9/J22ptUoONBoDwejh9e7jPADrIXZiRggZyY6fLmvU=",
+      "Fingerprint": "a9jgzhaetc",
+      "Integrity": "fsxsKDy103Ru8Cgrh6W3UoHgGoFCnsDMn7zCxj4zF94=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot/service-worker.js"
@@ -9315,11 +9315,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/GCiI9Aey2AzXu9dHsBH2B6jR7YDpxy4x5ZoRJlWt68=\""
+          "Value": "\"bP7Jyq27TzJfR3Fc+pYxGEld76cC1/FuzzRiIWnjpsI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:17:01 GMT"
+          "Value": "Sun, 20 Jul 2025 17:48:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9329,18 +9329,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/GCiI9Aey2AzXu9dHsBH2B6jR7YDpxy4x5ZoRJlWt68="
+          "Value": "sha256-bP7Jyq27TzJfR3Fc+pYxGEld76cC1/FuzzRiIWnjpsI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-kawid8q46j.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-8hwogpbe3l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000111957009"
+          "Quality": "0.000111931945"
         }
       ],
       "ResponseHeaders": [
@@ -9350,15 +9350,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8931"
+          "Value": "8933"
         },
         {
           "Name": "ETag",
-          "Value": "\"xJhnAcLnLWmwgoyiZMUj6NGEawO7XEutdUGW6A2gEd4=\""
+          "Value": "\"WKN4MBkOIiHWrx9IgLkql7ErQ+q7NncRLbtU3jLImq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:37 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9378,19 +9378,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/GCiI9Aey2AzXu9dHsBH2B6jR7YDpxy4x5ZoRJlWt68=\""
+          "Value": "W/\"bP7Jyq27TzJfR3Fc+pYxGEld76cC1/FuzzRiIWnjpsI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/GCiI9Aey2AzXu9dHsBH2B6jR7YDpxy4x5ZoRJlWt68="
+          "Value": "sha256-bP7Jyq27TzJfR3Fc+pYxGEld76cC1/FuzzRiIWnjpsI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-kawid8q46j.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-8hwogpbe3l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9399,7 +9399,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8931"
+          "Value": "8933"
         },
         {
           "Name": "Content-Type",
@@ -9407,11 +9407,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xJhnAcLnLWmwgoyiZMUj6NGEawO7XEutdUGW6A2gEd4=\""
+          "Value": "\"WKN4MBkOIiHWrx9IgLkql7ErQ+q7NncRLbtU3jLImq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:37 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9429,7 +9429,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xJhnAcLnLWmwgoyiZMUj6NGEawO7XEutdUGW6A2gEd4="
+          "Value": "sha256-WKN4MBkOIiHWrx9IgLkql7ErQ+q7NncRLbtU3jLImq4="
         }
       ]
     },
@@ -10411,11 +10411,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8=\""
+          "Value": "\"to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10425,18 +10425,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8="
+          "Value": "sha256-to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryApp.pdb",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-5bl9hwt7jv.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-ao6ur2zudc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000023233121"
+          "Quality": "0.000023231502"
         }
       ],
       "ResponseHeaders": [
@@ -10446,15 +10446,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43041"
+          "Value": "43044"
         },
         {
           "Name": "ETag",
-          "Value": "\"sndv81N/tI7tsEW9A6imZEjfuIUGsHf25PqteR5szUE=\""
+          "Value": "\"+DbHH6eSWfA7dOeAmrErZsxU5sf6Fp3HDIHGYE6oZw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10474,19 +10474,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8=\""
+          "Value": "W/\"to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8="
+          "Value": "sha256-to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryApp.pdb.gz",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-5bl9hwt7jv.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-ao6ur2zudc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10495,7 +10495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43041"
+          "Value": "43044"
         },
         {
           "Name": "Content-Type",
@@ -10503,11 +10503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sndv81N/tI7tsEW9A6imZEjfuIUGsHf25PqteR5szUE=\""
+          "Value": "\"+DbHH6eSWfA7dOeAmrErZsxU5sf6Fp3HDIHGYE6oZw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10525,7 +10525,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sndv81N/tI7tsEW9A6imZEjfuIUGsHf25PqteR5szUE="
+          "Value": "sha256-+DbHH6eSWfA7dOeAmrErZsxU5sf6Fp3HDIHGYE6oZw4="
         }
       ]
     },
@@ -10548,11 +10548,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI=\""
+          "Value": "\"0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10562,18 +10562,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI="
+          "Value": "sha256-0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryApp.wasm",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-li23xrmrti.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-uxpujesejw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000031901997"
+          "Quality": "0.000031872510"
         }
       ],
       "ResponseHeaders": [
@@ -10583,15 +10583,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31345"
+          "Value": "31374"
         },
         {
           "Name": "ETag",
-          "Value": "\"xCk5/YMJYel60Zx2dcimdvNhQghe8oiB+a6iLsj8OVg=\""
+          "Value": "\"fKDTZ+bzz+q8EZVcXUu8Acns9qf0ypV60jV3cCXY/1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10611,19 +10611,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI=\""
+          "Value": "W/\"0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI="
+          "Value": "sha256-0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryApp.wasm.gz",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-li23xrmrti.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-uxpujesejw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10632,7 +10632,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31345"
+          "Value": "31374"
         },
         {
           "Name": "Content-Type",
@@ -10640,11 +10640,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xCk5/YMJYel60Zx2dcimdvNhQghe8oiB+a6iLsj8OVg=\""
+          "Value": "\"fKDTZ+bzz+q8EZVcXUu8Acns9qf0ypV60jV3cCXY/1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10662,7 +10662,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xCk5/YMJYel60Zx2dcimdvNhQghe8oiB+a6iLsj8OVg="
+          "Value": "sha256-fKDTZ+bzz+q8EZVcXUu8Acns9qf0ypV60jV3cCXY/1s="
         }
       ]
     },
@@ -10685,11 +10685,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM=\""
+          "Value": "\"xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:30 GMT"
+          "Value": "Sun, 20 Jul 2025 17:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10699,18 +10699,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM="
+          "Value": "sha256-xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryLib.pdb",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-jkhk3ulphl.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-euogvfembi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000101677682"
+          "Quality": "0.000101667344"
         }
       ],
       "ResponseHeaders": [
@@ -10720,15 +10720,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9834"
+          "Value": "9835"
         },
         {
           "Name": "ETag",
-          "Value": "\"nbcLHm5B/axZso35NBF/xfTVGMlm27W20gU7600BSCI=\""
+          "Value": "\"fiD8ihZitgpMYdq1meseQkRCeutlSHlFIQnatoiJDOo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:30 GMT"
+          "Value": "Sun, 20 Jul 2025 17:31:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10748,19 +10748,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM=\""
+          "Value": "W/\"xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM="
+          "Value": "sha256-xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryLib.pdb.gz",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-jkhk3ulphl.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-euogvfembi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10769,7 +10769,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9834"
+          "Value": "9835"
         },
         {
           "Name": "Content-Type",
@@ -10777,11 +10777,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nbcLHm5B/axZso35NBF/xfTVGMlm27W20gU7600BSCI=\""
+          "Value": "\"fiD8ihZitgpMYdq1meseQkRCeutlSHlFIQnatoiJDOo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:30 GMT"
+          "Value": "Sun, 20 Jul 2025 17:31:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10799,7 +10799,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nbcLHm5B/axZso35NBF/xfTVGMlm27W20gU7600BSCI="
+          "Value": "sha256-fiD8ihZitgpMYdq1meseQkRCeutlSHlFIQnatoiJDOo="
         }
       ]
     },
@@ -10822,11 +10822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY=\""
+          "Value": "\"qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:48:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10836,18 +10836,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY="
+          "Value": "sha256-qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryLib.wasm",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-5082rkybzf.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-df0ixi0pic.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077609624"
+          "Quality": "0.000077663871"
         }
       ],
       "ResponseHeaders": [
@@ -10857,15 +10857,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12884"
+          "Value": "12875"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZqUQZjmtApmKf4ASV5jJoebGjCLP9s47FTzXabyQQ7k=\""
+          "Value": "\"KBQln13DFjmh64kgKT9mrZQLg1NCV5nQ/SkleSqFhkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10885,19 +10885,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY=\""
+          "Value": "W/\"qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY="
+          "Value": "sha256-qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU="
         }
       ]
     },
     {
       "Route": "_framework/EasyEntryLib.wasm.gz",
-      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-5082rkybzf.gz",
+      "AssetFile": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-df0ixi0pic.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10906,7 +10906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12884"
+          "Value": "12875"
         },
         {
           "Name": "Content-Type",
@@ -10914,11 +10914,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZqUQZjmtApmKf4ASV5jJoebGjCLP9s47FTzXabyQQ7k=\""
+          "Value": "\"KBQln13DFjmh64kgKT9mrZQLg1NCV5nQ/SkleSqFhkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:36 GMT"
+          "Value": "Sun, 20 Jul 2025 17:43:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10936,7 +10936,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZqUQZjmtApmKf4ASV5jJoebGjCLP9s47FTzXabyQQ7k="
+          "Value": "sha256-KBQln13DFjmh64kgKT9mrZQLg1NCV5nQ/SkleSqFhkI="
         }
       ]
     },
@@ -38878,11 +38878,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EtWCE9efV3bHuREBn+Q+OtiiDo1jvoVrokEgbPf4sFw=\""
+          "Value": "\"DAoC8Y03tx9iA9JO7ZK6Lkr/8DZaeFrXpnmaUTEQLVk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Jul 2025 17:16:38 GMT"
+          "Value": "Sun, 20 Jul 2025 17:48:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38892,7 +38892,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EtWCE9efV3bHuREBn+Q+OtiiDo1jvoVrokEgbPf4sFw="
+          "Value": "sha256-DAoC8Y03tx9iA9JO7ZK6Lkr/8DZaeFrXpnmaUTEQLVk="
         }
       ]
     },
@@ -38915,7 +38915,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F9/J22ptUoONBoDwejh9e7jPADrIXZiRggZyY6fLmvU=\""
+          "Value": "\"fsxsKDy103Ru8Cgrh6W3UoHgGoFCnsDMn7zCxj4zF94=\""
         },
         {
           "Name": "Last-Modified",
@@ -38929,7 +38929,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F9/J22ptUoONBoDwejh9e7jPADrIXZiRggZyY6fLmvU="
+          "Value": "sha256-fsxsKDy103Ru8Cgrh6W3UoHgGoFCnsDMn7zCxj4zF94="
         }
       ]
     }

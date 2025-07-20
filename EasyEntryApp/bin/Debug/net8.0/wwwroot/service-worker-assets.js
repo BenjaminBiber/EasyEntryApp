@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "xV6F65Cz",
+  "version": "EZmaEqEP",
   "assets": [
     {
       "hash": "sha256-fC5+7WJvRi9RO0JSMRTe5Fw/ybv1XWp6LgTNpuRA4vM=",
@@ -10,19 +10,19 @@ self.assetsManifest = {
       "url": "_content/MudBlazor/MudBlazor.min.js"
     },
     {
-      "hash": "sha256-IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8=",
+      "hash": "sha256-to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE=",
       "url": "_framework/EasyEntryApp.pdb"
     },
     {
-      "hash": "sha256-g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI=",
+      "hash": "sha256-0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24=",
       "url": "_framework/EasyEntryApp.wasm"
     },
     {
-      "hash": "sha256-80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM=",
+      "hash": "sha256-xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM=",
       "url": "_framework/EasyEntryLib.pdb"
     },
     {
-      "hash": "sha256-+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY=",
+      "hash": "sha256-qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU=",
       "url": "_framework/EasyEntryLib.wasm"
     },
     {
@@ -798,7 +798,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-/GCiI9Aey2AzXu9dHsBH2B6jR7YDpxy4x5ZoRJlWt68=",
+      "hash": "sha256-bP7Jyq27TzJfR3Fc+pYxGEld76cC1/FuzzRiIWnjpsI=",
       "url": "_framework/blazor.boot.json"
     },
     {

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EasyEntryApp",
   "resources": {
-    "hash": "sha256-RwasSbaodT3O8VNume9bUjs8UHQdxtPHsgTVxjvTSPE=",
+    "hash": "sha256-6BiQngN6POnlalfpTyyWLs9e9hf5xD486OZtj1D7v8U=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -213,12 +213,12 @@
       "mscorlib.wasm": "sha256-Im6xq+lOse4P/VnAyrA3hwPstV67V5dB0EwQWcjipyE=",
       "netstandard.wasm": "sha256-PK0GLtj6kQVtZPzq0FZlnSdHh7geujg80LqKdJXA4pI=",
       "System.Private.CoreLib.wasm": "sha256-gEwccs7GbRSPGmeWBOKxNroYfyM+mZ7hqbP3ki1iwX0=",
-      "EasyEntryLib.wasm": "sha256-+7+pJeIM67yaVHEmFd6q9j3vXvaNhf6yxbCy9oykMYY=",
-      "EasyEntryApp.wasm": "sha256-g6OP+PAdYYmmbJcU+h44S1rWxWKMP+FIcIN23JerqkI="
+      "EasyEntryLib.wasm": "sha256-qVvA7TMD+M5YTYUui3BAPH1xxZvF30vwD8WH/3ZoGWU=",
+      "EasyEntryApp.wasm": "sha256-0gnyp3xjCENPi7oMc/Q/OwpT8uN3itSQwIVZwC4hD24="
     },
     "pdb": {
-      "EasyEntryLib.pdb": "sha256-80BQmQ9+3lIqz8j1GQHf5O+Hod0LcCbEvSJUHIZBlMM=",
-      "EasyEntryApp.pdb": "sha256-IZUWyng6C8gdKyZPTPU5OZsZzVGL48/8ei2T8q4u9V8="
+      "EasyEntryLib.pdb": "sha256-xlxF0EZkzt588haPtZ+hB74vxoUyLah8kSo2mObJUsM=",
+      "EasyEntryApp.pdb": "sha256-to+5PPiFoMSd9WMQGx0GnVZ730TOxXw/pYZf/vpoxKE="
     }
   },
   "cacheBootResources": true,

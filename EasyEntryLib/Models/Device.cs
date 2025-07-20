@@ -113,7 +113,7 @@ public class Device
             throw new InvalidOperationException("HttpClient not set.");
 
         var fullUrl = $"http://{url}";
-        var proxyUrl = $"/api/proxy?url={WebUtility.UrlEncode(fullUrl)}";
+        var proxyUrl = $"/api/setting/proxy?url={WebUtility.UrlEncode(fullUrl)}";
         var content = new StringContent(jsonContent, Encoding.UTF8, "application/json");
 
         try

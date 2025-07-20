@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyEntryLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ca169a3d9e122e009f0c1bd8f34053e6ef19e32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a3423934eeddc0c5f6c8d2d950a8850002e7550")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyEntryLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyEntryLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

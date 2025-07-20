@@ -2120,11 +2120,6 @@
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5hhl5qpoqy-tptq2av103.gz
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/qnpeucyxve-lfu7j35m59.gz
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/de30heqpau-oyz0vx2fzb.gz
-/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-5082rkybzf.gz
-/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-jkhk3ulphl.gz
-/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-li23xrmrti.gz
-/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-5bl9hwt7jv.gz
-/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-kawid8q46j.gz
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/staticwebassets.build.json
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/staticwebassets.development.json
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
@@ -2136,3 +2131,8 @@
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/staticwebassets.pack.json
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/EasyEntr.B852988A.Up2Date
 /home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/ref/EasyEntryApp.dll
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/n4b085xgw4-uxpujesejw.gz
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/tjfh5l5ok8-ao6ur2zudc.gz
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/f7r6ongmq4-df0ixi0pic.gz
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/5sfejee7yl-euogvfembi.gz
+/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/Debug/net8.0/compressed/pc6b6yqy2q-8hwogpbe3l.gz
