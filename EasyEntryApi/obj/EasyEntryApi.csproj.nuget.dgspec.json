@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApi/EasyEntryApi.csproj": {}
+    "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApi/EasyEntryApi.csproj": {}
   },
   "projects": {
-    "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApi/EasyEntryApi.csproj": {
+    "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApi/EasyEntryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApi/EasyEntryApi.csproj",
+        "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApi/EasyEntryApi.csproj",
         "projectName": "EasyEntryApi",
-        "projectPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApi/EasyEntryApi.csproj",
+        "projectPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApi/EasyEntryApi.csproj",
         "packagesPath": "/home/benjaminb/.nuget/packages/",
-        "outputPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApi/obj/",
+        "outputPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/benjaminb/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj": {
-                "projectPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj"
+              "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj": {
+                "projectPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj": {
+    "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj",
+        "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj",
         "projectName": "EasyEntryLib",
-        "projectPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj",
+        "projectPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj",
         "packagesPath": "/home/benjaminb/.nuget/packages/",
-        "outputPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/obj/",
+        "outputPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/benjaminb/.nuget/NuGet/NuGet.Config"

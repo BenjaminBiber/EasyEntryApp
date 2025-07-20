@@ -750,11 +750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj",
+      "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj",
       "projectName": "EasyEntryLib",
-      "projectPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj",
+      "projectPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj",
       "packagesPath": "/home/benjaminb/.nuget/packages/",
-      "outputPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/obj/",
+      "outputPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/benjaminb/.nuget/NuGet/NuGet.Config"

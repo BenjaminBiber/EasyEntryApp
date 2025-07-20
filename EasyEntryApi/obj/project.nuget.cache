@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0v/mCYy1JA=",
+  "dgSpecHash": "XUn+W1YlikU=",
   "success": true,
-  "projectFilePath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApi/EasyEntryApi.csproj",
+  "projectFilePath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApi/EasyEntryApi.csproj",
   "expectedPackageFiles": [
     "/home/benjaminb/.nuget/packages/entityframework/6.5.1/entityframework.6.5.1.nupkg.sha512",
     "/home/benjaminb/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

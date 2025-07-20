@@ -2121,11 +2121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApp/EasyEntryApp.csproj",
+      "projectUniqueName": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/EasyEntryApp.csproj",
       "projectName": "EasyEntryApp",
-      "projectPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApp/EasyEntryApp.csproj",
+      "projectPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/EasyEntryApp.csproj",
       "packagesPath": "/home/benjaminb/.nuget/packages/",
-      "outputPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApp/obj/",
+      "outputPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/benjaminb/.nuget/NuGet/NuGet.Config"
@@ -2140,8 +2140,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj": {
-              "projectPath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryLib/EasyEntryLib.csproj"
+            "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj": {
+              "projectPath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryLib/EasyEntryLib.csproj"
             }
           }
         }

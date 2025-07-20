@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dzReeRgn7jc=",
+  "dgSpecHash": "JRWlxXbY6ZQ=",
   "success": true,
-  "projectFilePath": "/home/benjaminb/RiderProjects/EasyEntry/EasyEntryApp-PWA/EasyEntryApp/EasyEntryApp.csproj",
+  "projectFilePath": "/home/benjaminb/RiderProjects/EasyEntryApp/EasyEntryApp/EasyEntryApp.csproj",
   "expectedPackageFiles": [
     "/home/benjaminb/.nuget/packages/microsoft.aspnetcore.authorization/8.0.12/microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",
     "/home/benjaminb/.nuget/packages/microsoft.aspnetcore.components/8.0.12/microsoft.aspnetcore.components.8.0.12.nupkg.sha512",
