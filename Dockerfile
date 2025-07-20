@@ -8,6 +8,13 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
+# Installiere Python (z. B. für AOT-kompilierung in WASM)
+RUN apt-get update && apt-get install -y python3 python3-pip
+
+# Optional: Verlinke python3 zu python, falls .NET das erwartet
+RUN ln -s /usr/bin/python3 /usr/bin/python
+
+
 # Debug: Inhalt anzeigen
 RUN echo "Inhalt von /src vor COPY:" && ls -la /src
 
